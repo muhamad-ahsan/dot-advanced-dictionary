@@ -393,7 +393,7 @@ namespace DotAdvancedDictionary
             #endregion
 
             #region Cleanup Check
-            if (currentWeight >= maxWeight && Interlocked.Increment(ref cleanupInProgress) == 1)
+            if (currentWeight >= maxWeight && Interlocked.CompareExchange(ref cleanupInProgress, 1, 0) == 0)
             {
                 Task.Run(() => CleanupDictionary());
             }

@@ -287,3 +287,6 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 /DotAdvancedDictionary/DotAdvancedDictionary/nuget.exe
+/DotAdvancedDictionary/DotAdvancedDictionary/DotAdvancedDictionary.1.0.0/lib
+/DotAdvancedDictionary/DotAdvancedDictionary/DotAdvancedDictionary.1.0.0/package/services/metadata/core-properties
+/DotAdvancedDictionary/DotAdvancedDictionary/DotAdvancedDictionary.1.0.0/_rels
