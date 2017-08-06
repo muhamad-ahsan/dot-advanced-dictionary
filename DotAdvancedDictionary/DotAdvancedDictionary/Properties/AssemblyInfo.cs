@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("DotAdvancedDictionary")]
-[assembly: AssemblyDescription("DotAdvancedDictionary")]
+[assembly: AssemblyDescription("Advanced dictionary for .Net")]
 [assembly: AssemblyProduct("DotAdvancedDictionary")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

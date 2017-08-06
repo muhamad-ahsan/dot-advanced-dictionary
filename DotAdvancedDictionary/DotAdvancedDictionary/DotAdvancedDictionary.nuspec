@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DotAdvancedDictionary</id>
+    <version>1.0.0.0</version>
+    <title>Advanced dictionary for .Net</title>
+    <authors>muhamad.ahsan</authors>
+    <licenseUrl>https://github.com/muhamad-ahsan/dot-advanced-dictionary/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/muhamad-ahsan/dot-advanced-dictionary</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dictionary with advance features including auto retrieval, max limit etc.</description>
+    <releaseNotes>The initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Dictionary Advanced AdvancedDictionary .Net Dot</tags>
+  </metadata>
+
+  <files>
+    <file src="bin\Release\DotAdvancedDictionary.dll" target="lib" />
+  </files>
+</package>
