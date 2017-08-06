@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>DotAdvancedDictionary</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>Advanced dictionary for .Net</title>
     <authors>muhamad.ahsan</authors>
     <licenseUrl>https://github.com/muhamad-ahsan/dot-advanced-dictionary/blob/master/LICENSE</licenseUrl>
