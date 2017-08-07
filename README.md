@@ -46,5 +46,6 @@ public static string GetValue(string key)
 ```
 
 # Nuget
-The package can be downloaded from nuget with the following link:
+The package can be downloaded from nuget with the following link (or copy and paste directy in package manager console):
+
 [Install-Package DotAdvancedDictionary](https://preview.nuget.org/packages/DotAdvancedDictionary/1.0.0.1)
