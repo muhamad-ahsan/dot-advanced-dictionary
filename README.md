@@ -1,8 +1,8 @@
 # About
-Advanced dictionary for .Net with maximum size limit to avoid out-of-memory issues, auto value retrieval if key not found, auto cleanup of old keys if more space is required. It is perfect for in-memory cache and for other general purposes.
+Advanced dictionary for .Net is regular dictionary with some advanced features. This include maximum size limit to avoid out-of-memory issues, auto value retrieval if key not found, auto cleanup of old keys if more space is required and multi-threading (concurrent access). It is perfect for in-memory cache and for other general purposes.
 
 # Usage
-The usage is same as regural dictionary with some extra parameters while creating dictionary object. Please see the below example:
+The usage is same as regular dictionary with some extra parameters (only weight is required; others are optional) while creating dictionary object. Please see the below example:
 
 ```C#
 public void DictionaryUsageExample()
