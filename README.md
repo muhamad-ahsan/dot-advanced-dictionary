@@ -1,4 +1,6 @@
 # About
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 Advanced dictionary for .Net is regular dictionary with some advanced features. This include maximum size limit to avoid out-of-memory issues, auto value retrieval if key not found, auto cleanup of old keys if more space is required and multi-threading (concurrent access). It is perfect for in-memory cache and for other general purposes.
 
 # Usage
@@ -46,6 +48,6 @@ public static string GetValue(string key)
 ```
 
 # Nuget
-The package can be downloaded from nuget with the following link (or copy and paste directy in package manager console):
+The package can be downloaded from nuget with the following link:
 
-[Install-Package DotAdvancedDictionary](https://preview.nuget.org/packages/DotAdvancedDictionary/1.0.0.1)
+[![NuGet](https://img.shields.io/badge/nuget-v1.0.0.1-blue.svg)](https://www.nuget.org/packages/DotAdvancedDictionary/1.0.0.1)
