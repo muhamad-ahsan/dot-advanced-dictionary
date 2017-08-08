@@ -1,2 +1,2 @@
 language: csharp
-solution: DotAdvancedDictionary.sln
+solution: DotAdvancedDictionary/DotAdvancedDictionary.sln
