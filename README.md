@@ -50,4 +50,4 @@ public static string GetValue(string key)
 # Nuget
 The package can be downloaded from nuget with the following link:
 
-[![NuGet](https://img.shields.io/badge/nuget-v1.0.0.1-blue.svg)](https://www.nuget.org/packages/DotAdvancedDictionary/1.0.0.1)
+[![NuGet](https://img.shields.io/badge/nuget-v1.0.0.1-blue.svg)](http://bit.ly/2vW27L1)
